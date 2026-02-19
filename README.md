@@ -92,7 +92,10 @@ En la imagen 2 se presenta el ingreso de los atributos de una nueva tarea. Dicha
 ![Imagen 2: Creación o agregación de una tarea.](images/image1.jpeg)
 
 
+En la imagen 3 se observa las tareas agregadas
 ![Imagen 2: Lista de tareas agregadas.](images/image2.jpeg)
 
 
+Imagen 3, se elimina una tarea.
 ![Imagen 3: Eliminación de una tares.](images/image3.jpeg)
+

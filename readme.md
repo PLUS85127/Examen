@@ -1,4 +1,4 @@
-# Task Manager App
+# Task Manager App 
 Esta es una aplicación móvil creada por los alumnos del 6to semestre de IDS para el examen parcial de la materia Desarrollo de Aplicaciones Móviles.  
 Dicha app tiene el objetivo de permitir la creación, visualización, modificación y eliminación de tareas o actividades por parte del usuario.  
 La aplicación fue construida en Flutter (front-end) y Node (back-end). Por medio de Node se creó una API para comunicarse con una base de datos en Microsoft Server SQL (mssql). El IDE utilizado para la construcción de la aplicación fue Visual Studio Code (VS Code).
@@ -90,5 +90,6 @@ tarea marcada como hecha
 En la imagen 2 se presenta el ingreso de los atributos de una nueva tarea. Dicha tarea es registrada y almacenada por la API del backend
 
 ![Imagen 2: Creación o agregación de una tarea.](images/image1.jpeg)
+
 
 ![Imagen 2: Creación o agregación de una tarea.](images/image2.jpeg)
